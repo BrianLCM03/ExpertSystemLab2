@@ -26,7 +26,7 @@ def create_env():
     return env
 
 
-st.title("Expert System LAB 2")
+st.title("Simple Expert System Demo")
 
 st.write("This demo will take your input, assert it as a fact into CLIPS, run inference, and display the result.")
 
